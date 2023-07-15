@@ -36,7 +36,7 @@ public class BaseTest {
 	
 	
 	public void setUp(String browser) {
-		
+		//project is added
 		// loading the log file
 		PropertyConfigurator.configure("./src/test/resources/properties/log4j.properties");
 
